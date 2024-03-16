@@ -1,0 +1,27 @@
+What all is requireed for Piscine:
+
+You don’t need to know anything about computers before the piscine besides how to turn them on.
+
+The piscine is designed in a way that it gives a fair shot to students with no prior exposure to computer science, and it evaluates not only what grades you got in each of the assignments, 
+but also how much you progressed throughout the piscine, how much effort you put into it and how well you worked with other students.
+
+I knew C prior to the piscine, but I knew zero shell scripting, and I got by just fine.
+
+With that said, it definitely helps if you know at least the basics going into the piscine.
+
+I’d recommend knowing the basics of git (init, clone, commit, push, pull, add), 
+some text manipulation with shell scripting (regex, cut, sed, awk) as well as the basic commands (cd, mv, rm, ls, touch, mkdir, chmod, chown) with their most used flags. 
+There’s also some stuff about kerberos, but I don’t expect you to know that very well before the piscine as I’ve gone through it and I still dont :P They give some tips for some of the questions.
+
+It also helps a lot if you know at least the basic commands of an editor that is available on the terminal like emacs (personal favorite of mine), vim or nano, 
+since during the exams all you’ll be able to use is the terminal and the preview app to read the assignment pdf.
+
+For the C part, you won’t be able to use most of the functions, they’ll limit you to the most basic ones like write instead of printf, 
+so I’d practice using only those. It’ll help you if you already have a decent grasp of how pointers work and what trees, linked lists, heaps, etc are. 
+Knowing how to use lldb for debugging will help.
+
+They also have some code style limitations, and the toughest one is limiting functions to 25 lines with no more than one expression in each (also no for loops, only whiles), 
+so knowing a few tricks to make functions shorter will help, like ternary operators, 
+using parameters as values for the function (passing a parameter to the function which really isn’t a parameter but a variable to be used in the function).
+
+Overall you don’t really NEED to know anything, but it definitely helps if you prepare.
