@@ -1,5 +1,7 @@
 What all is requireed for Piscine:
 
+https://www.codequoi.com/en/how-to-prepare-for-the-42-piscine/
+
 You don’t need to know anything about computers before the piscine besides how to turn them on.
 
 The piscine is designed in a way that it gives a fair shot to students with no prior exposure to computer science, and it evaluates not only what grades you got in each of the assignments, 
@@ -11,7 +13,8 @@ With that said, it definitely helps if you know at least the basics going into t
 
 I’d recommend knowing the basics of git (init, clone, commit, push, pull, add), 
 some text manipulation with shell scripting (regex, cut, sed, awk) as well as the basic commands (cd, mv, rm, ls, touch, mkdir, chmod, chown) with their most used flags. 
-There’s also some stuff about kerberos, but I don’t expect you to know that very well before the piscine as I’ve gone through it and I still dont :P They give some tips for some of the questions.
+There’s also some stuff about kerberos, but I don’t expect you to know that very well before the piscine as I’ve gone through it and I still dont :P 
+They give some tips for some of the questions.
 
 It also helps a lot if you know at least the basic commands of an editor that is available on the terminal like emacs (personal favorite of mine), vim or nano, 
 since during the exams all you’ll be able to use is the terminal and the preview app to read the assignment pdf.
